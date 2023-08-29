@@ -21,14 +21,14 @@ where,
 - E -> Export
 
 ### Sample State:
-Dimensions: (Length, Width, Height) = (10 cm, 5 cm, 2 cm)
-Weight: 100 grams
-Color: Blue
+Dimensions: (Length, Width, Height) = (10 cm, 5 cm, 2 cm).
+Weight: 100 grams.
+Color: Blue.
 
 ### Action Space:
 {F,E} -> {0,1}
  where,
-  "E->Export" 
+  "E->Export" ,
   "F->Mark as Faulty"
 
 ### Sample Action:
@@ -36,7 +36,7 @@ E-> 1<br>
 product is ready for Export.
 
 ### Reward Function:
-R = { +10 for correctly exporting a ready product
+R = { +10 for correctly exporting a ready product,
 -10 for exporting a faulty product}
 
 ### Graphical Representation:
