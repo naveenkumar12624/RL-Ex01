@@ -1,8 +1,7 @@
-# <p align="center"> MDP REPRESENTATION </p>
+# EX-01<p align="center"> MDP REPRESENTATION </p>
 
 ## AIM:
 To represent a Markov Decision Process(MDP) problem in the following ways.
-
   1. Text representation
   2. Graphical representation
   3. Python - Dictonary representation
@@ -68,7 +67,6 @@ P = {
 
 ## RESULT:
 Thus the given Markov Decision Process(MDP) problem is represented in the following ways.
-
   1. Text representation
   2. Graphical representation
   3. Python - Dictonary representation
